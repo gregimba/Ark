@@ -11,7 +11,6 @@ from ark import Ark
 
 ark = Ark('XXXXXXX-XXXX-XXXX-XXXX-XXXXXXX')
 print ark.check_token()
-print ark.check_token()
 print ark.email("email@example.com")
 print ark.twitter('handle')
 print ark.facebook('fb.url')
