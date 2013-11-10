@@ -6,7 +6,7 @@ If you want to learn more about the api check out their [api_doc](https://github
 
 ## Quickstart
 
-'''python
+```python
 from ark import Ark
 
 ark = Ark('XXXXXXX-XXXX-XXXX-XXXX-XXXXXXX')
@@ -16,4 +16,4 @@ print ark.email("email@example.com")
 print ark.twitter('handle')
 print ark.facebook('fb.url')
 
-'''
+```
